@@ -1,2 +1,0 @@
-# admission-test
- 
