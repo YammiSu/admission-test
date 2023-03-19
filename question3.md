@@ -2,7 +2,7 @@
  
 1. What is Git and why is it used? 
 
-Git 是版本控制的平台，是為了用來做版本控制、協作開發以及記錄所有的狀態變化，可以隨時切換到過去某個「版本」時候的狀態。
+Git 是版本控制的系統，是為了用來做版本控制、協作開發以及記錄所有的狀態變化，可以隨時切換到過去某個「版本」時候的狀態。
 Git是分散式版本控制系統：可以在沒有伺服器或是沒有網路的環境，依舊可以使用 Git 來進行版控，待伺服器恢復正常運作或是再有網路的環境後再進行同步，不會受影響。
 
 2. What is the difference between List, Dictionary, Tuple and Set in Python?
